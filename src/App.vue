@@ -84,7 +84,7 @@
           <option value="subtracao">Subtração</option>
           <option value="divisao">Divisão</option>
         </select>
-        <button @click="calcular">Calcular</button>
+       
       </div>
     </div>
   </template>
